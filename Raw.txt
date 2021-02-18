@@ -1,1 +1,1 @@
-{ "epg": "","list":"https://raw.githubusercontent.com/b0rdga/bouzapps/Allwinner/UAE.m3u", "validity": "30/07/2025", "success": true, "notifications": "BouzTV" }
+{ "epg": "","list":"http://jokertv.link:25461/get.php?username=arab1717&password=sniperstv.com&type=m3u", "validity": "30/07/2025", "success": true, "notifications": "BouzTV" }

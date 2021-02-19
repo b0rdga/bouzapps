@@ -1,1 +1,1 @@
-{ "epg": "","list":"http://jokertv.link:25461/get.php?username=arab1717&password=sniperstv.com&type=m3u", "validity": "30/07/2025", "success": true, "notifications": "BouzTV" }
+{ "epg": "","list":"https://m3u-editor.com:443/get.php?username=serve&password=conadopleshnvxs&type=m3u", "validity": "30/07/2025", "success": true, "notifications": "BouzTV" }

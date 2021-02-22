@@ -1,1 +1,1 @@
-{ "epg": "","list":"https://m3u-editor.com:443/get.php?username=serve&password=conadopleshnvxs&type=m3u", "validity": "30/07/2025", "success": true, "notifications": "BouzTV" }
+{ "epg": "","list":"http://cobraa.in:8000/get.php?username=Fawzi0555660873&password=2L30ce6fj5&type=m3u", "validity": "30/07/2025", "success": true, "notifications": "BouzTV" }

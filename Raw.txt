@@ -1,1 +1,1 @@
-{ "epg": "","list":"http://local-iptv.myddns.me:8000/get.php?username=239021AM4884820&password=47212021AM4784345&type=m3u_plus&output=ts", "validity": "30/07/2025", "success": true, "notifications": "BouzTV" }
+{ "epg": "","list":"http://rv.flysat.live/get.php?username=307274222352&password=307274222352&type=m3u", "validity": "30/07/2025", "success": true, "notifications": "BouzTV" }

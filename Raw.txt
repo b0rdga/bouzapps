@@ -1,1 +1,1 @@
-{ "epg": "","list":"http://rv.flysat.live/get.php?username=307274222352&password=307274222352&type=m3u", "validity": "30/07/2025", "success": true, "notifications": "BouzTV" }
+{ "epg": "","list":"https://iptv-org.github.io/iptv/languages/ara.m3u", "validity": "30/07/2025", "success": true, "notifications": "BouzTV" }

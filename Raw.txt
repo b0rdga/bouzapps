@@ -1,1 +1,1 @@
-{ "epg": "","list":"https://iptv-org.github.io/iptv/languages/ara.m3u","list2":"http://playentertainment.duckdns.org:25461/get.php?username=12345678&password=87654321&type=m3u", "validity": "30/07/2025", "success": true, "notifications": "BouzTV" }
+{ "epg": "","list":"http://172.67.210.159:80/get.php?username=IZ1lcwuTQQ&password=b4BuiTFp3F&type=m3u","list2":"http://playentertainment.duckdns.org:25461/get.php?username=12345678&password=87654321&type=m3u", "validity": "30/07/2025", "success": true, "notifications": "BouzTV" }

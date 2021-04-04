@@ -1,1 +1,1 @@
-{ "epg": "","list":"http://95.216.15.51:80/get.php?username=airmaxtvb&password=vb95qQbLmR&type=m3u", "validity": "30/07/2025", "success": true, "notifications": "BouzTV" }
+{ "epg": "","list":"https://api.iptveditor.com/get.php?username=mo3ad2&password=mo3ad2&type=m3u", "validity": "30/07/2025", "success": true, "notifications": "BouzTV" }

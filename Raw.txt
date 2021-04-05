@@ -1,1 +1,1 @@
-{ "epg": "","list":"https://api.iptveditor.com/get.php?username=mo3ad2&password=mo3ad2&type=m3u", "validity": "30/07/2025", "success": true, "notifications": "BouzTV" }
+{ "epg": "","list":"https://raw.githubusercontent.com/b0rdga/bouzapps/Allwinner/Bouztv.m3u", "validity": "30/07/2025", "success": true, "notifications": "BouzTV" }

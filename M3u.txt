@@ -1,0 +1,1 @@
+{ "epg": "","list":"https://raw.githubusercontent.com/b0rdga/bouzapps/Allwinner/Bouztv.m3u", "validity": "30/07/2025", "success": true, "notifications": "BouzTV" }

@@ -1,1 +1,1 @@
-{ "epg": "","list":"http://tv.ipflix.click:8080/get.php?username=zhrktaqsvq&password=1v1rkn4hgd&type=m3u_plus&output=ts", "validity": "30/07/2025", "success": true, "notifications": "BOUZTV انضم الى مجموعتنا على تلقرام للمزيد" }
+{ "epg": "","list":"https://raw.githubusercontent.com/b0rdga/bouzapps/Allwinner/Bouztv.m3u", "validity": "30/07/2025", "success": true, "notifications": "BOUZTV انضم الى مجموعتنا على تلقرام للمزيد" }
